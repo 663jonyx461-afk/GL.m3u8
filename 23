@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Globo" tvg-id="tv_globo_rio_de_janeiro", RJ - TV Globo Rio de Janeiro
-https://globoplay.ssdtvdigital.workers.dev/session/tv_globo_rio_de_janeiro
+https://globoplay.ssdtvdigital.workers.dev/session/tv_globo_rio_de_janeiro.m3u8
 
 #EXTINF:-1 group-title="Globo" tvg-id="tv_globo_s_o_paulo", SP - TV Globo São Paulo
 https://globoplay.ssdtvdigital.workers.dev/session/tv_globo_s_o_paulo
